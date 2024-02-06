@@ -260,3 +260,21 @@ h1 {
     transform: translateY(0);
   }
 }
+
+.center {
+  text-align: center;
+}
+
+.error {
+  background-color: #eeb9b7;
+  color: #5a110c;
+  width: 25rem;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 1rem;
+  border-radius: .5rem;
+}
+
+.error > h2, p {
+  margin: 0;
+}
