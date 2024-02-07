@@ -1,5 +1,11 @@
 # Getting Started with Create React App
 
+You can run project:
+1. Clone repository
+2. Run `npm install`
+3. Start server in backend directory `node app.js`
+4. Run project `npm start`
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
