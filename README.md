@@ -6,6 +6,13 @@ You can run project:
 3. Start server in backend directory `node app.js`
 4. Run project `npm start`
 
+## Screenshots
+
+![](./screenshots/home-page.png)
+![](./screenshots/cart.png)
+![](./screenshots/checkout.png)
+![](./screenshots/success-modal.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
